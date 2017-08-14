@@ -4,17 +4,18 @@ Digital version of [Lorenzo il Magnifico](http://www.craniocreations.it/prodotto
 Powered by [LM34] developers
 
 ### Team Members
-Nome			|Student ID	|Politecnico Mail
-----------------|-----------|----------------
-Comi Giulio		|827172		|giulio1.comi@mail.polimi.it
-Coretchi Vlad	|829603		|vlad.coretchi@mail.polimi.it
-Dorata Roberto	|828144		|roberto.dorata@mail.polimi.it
+Nome			| Politecnico Mail
+----------------|-----------
+Comi Giulio			|giulio1.comi@mail.polimi.it
+Coretchi Vlad		
+Dorata Roberto	
 
 
 
 # Getting Started
 
-These instruction will let you run Lorenzo il Magnifico on your local machine. 
+These instruction will let you run our software on your local machine. 
+
 
 ### Prerequisites 
 

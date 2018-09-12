@@ -6,7 +6,7 @@ Powered by [LM34] developers
 ### Team Members
 Nome			| Politecnico Mail
 ----------------|-----------
-Comi Giulio			|giulio1.comi@mail.polimi.it
+Comi Giulio
 Coretchi Vlad		
 Dorata Roberto	
 

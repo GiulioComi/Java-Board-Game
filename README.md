@@ -4,9 +4,7 @@ Digital version of [Lorenzo il Magnifico](http://www.craniocreations.it/prodotto
 Powered by [LM34] developers
 
 ### Team Members
-Comi Giulio
-Coretchi Vlad		
-Dorata Roberto	
+Comi Giulio, Coretchi Vlad, Dorata Roberto	
 
 
 
